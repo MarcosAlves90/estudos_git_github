@@ -1,0 +1,3 @@
+[submodule "github-chapter-2-sandbox"]
+	path = github-chapter-2-sandbox
+	url = https://github.com/MarcosAlves90/github-chapter-2-sandbox.git
