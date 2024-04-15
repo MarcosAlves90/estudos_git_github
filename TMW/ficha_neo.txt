@@ -1,0 +1,32 @@
+Nome: Neopolitan Saints Durant
+[Atributos]
+Vigor: 1
+Força: 0
+Destreza: 2
+Presença: 3
+Inteligência: 4
+[Perícias]
+Acrobacia: 6
+Atletismo: 0
+Artes: 6
+Ciências: 0
+Enganação: 4
+Foco: 6
+Furtividade: 0
+História: 0
+Intimidação: 0
+Iniciativa: 5
+Intuição: 0
+Investigação: 4
+Luta: 0
+Magia-Arcana: 6
+Medicina: 6
+Percepção: 4
+Persuasão: 4
+Precisão: 5
+Prestidigitação: 0
+Profissão: 0
+Religião: 0
+Sobrevivência: 0
+Tecnologia: 5
+Tática: 5
